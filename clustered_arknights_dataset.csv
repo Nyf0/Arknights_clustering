@@ -1,0 +1,236 @@
+elite_1_hp,elite_1_atk,elite_1_def,elite_1_res,elite_1_dp_cost,elite_1_block,elite_1_interval,max_hp,max_atk,max_def,max_res,max_dp_cost,max_block,max_interval,name,class,branch,stars,early_game_cluster,endgame_cluster
+1191,353,90,0,3,1,1,0,0,0,0,0,0,0,Castle-3,Guard,Dreadnought,1-star,1,2
+495,172,41,0,3,1,1,0,0,0,0,0,0,0,"""Justice Knight""",Sniper,Marksman,1-star,1,2
+435,70,27,0,3,1,2,0,0,0,0,0,0,0,Lancet-2,Medic,Medic,1-star,1,2
+1443,260,443,50,3,0,0,0,0,0,0,0,0,0,THRM-EX,Specialist,Executor,1-star,1,2
+1461,432,50,10,24,1,2,0,0,0,0,0,0,0,12F,Caster,Splash,2-star,2,2
+952,340,62,10,12,1,1,0,0,0,0,0,0,0,Durin,Caster,Core,2-star,1,2
+1670,240,315,0,14,3,1,0,0,0,0,0,0,0,Noir Corne,Defender,Protector,2-star,0,2
+780,269,66,0,7,1,1,0,0,0,0,0,0,0,Rangers,Sniper,Marksman,2-star,1,2
+1030,232,192,0,7,2,1,0,0,0,0,0,0,0,Yato,Vanguard,Pioneer,2-star,1,2
+831,251,93,0,9,1,1,0,0,0,0,0,0,0,Adnachiel,Sniper,Marksman,3-star,1,2
+907,257,81,0,15,1,2,0,0,0,0,0,0,0,Ansel,Medic,Medic,3-star,1,2
+1526,236,362,0,16,3,1,0,0,0,0,0,0,0,Beagle,Defender,Protector,3-star,0,2
+1597,244,342,0,16,3,1,0,0,0,0,0,0,0,Cardigan,Defender,Protector,3-star,0,2
+920,487,67,0,21,1,2,0,0,0,0,0,0,0,Catapult,Sniper,Artilleryman,3-star,2,2
+1060,235,187,0,9,2,1,0,0,0,0,0,0,0,Fang,Vanguard,Pioneer,3-star,1,2
+975,248,82,0,15,1,2,0,0,0,0,0,0,0,Hibiscus,Medic,Medic,3-star,1,2
+826,258,88,0,9,1,1,0,0,0,0,0,0,0,Kroos,Sniper,Marksman,3-star,1,2
+878,453,69,10,27,1,2,0,0,0,0,0,0,0,Lava,Caster,Splash,3-star,2,2
+1993,583,119,0,13,1,1,0,0,0,0,0,0,0,Melantha,Guard,Dreadnought,3-star,0,2
+1256,372,222,5,14,2,1,0,0,0,0,0,0,0,Midnight,Guard,Lord,3-star,0,2
+738,283,64,10,10,1,1,0,0,0,0,0,0,0,Orchid,Supporter,Decel Binder,3-star,1,2
+956,333,212,0,8,1,1,0,0,0,0,0,0,0,Plume,Vanguard,Charger,3-star,1,2
+1449,366,181,0,17,2,1,0,0,0,0,0,0,0,Popukar,Guard,Centurion,3-star,0,2
+1429,236,331,10,15,2,1,0,0,0,0,0,0,0,Spot,Defender,Guardian,3-star,0,2
+847,357,65,10,16,1,1,0,0,0,0,0,0,0,Steward,Caster,Core,3-star,1,2
+1016,248,184,0,9,2,1,0,0,0,0,0,0,0,Vanilla,Vanguard,Pioneer,3-star,1,2
+933,429,114,0,14,1,1,1576,735,209,0,18,1,1,Aciddrop,Sniper,Heavyshooter,4-star,1,1
+1020,608,80,0,18,1,2,1595,977,122,0,20,1,2,Ambriel,Sniper,Deadeye,4-star,2,1
+1350,388,222,5,16,2,1,2250,640,340,10,18,2,1,Arene,Guard,Lord,4-star,0,0
+1003,252,73,0,11,2,1,1569,405,125,0,13,2,1,Beanstalk,Vanguard,Tactician,4-star,1,0
+1556,311,191,0,7,1,0,2435,513,312,0,9,1,0,Beehunter,Guard,Fighter,4-star,1,0
+1793,251,347,0,17,3,1,3416,370,645,0,21,3,1,Bubble,Defender,Protector,4-star,0,0
+820,233,64,10,12,1,2,1137,389,101,10,14,1,2,Chestnut,Medic,Wandering,4-star,1,1
+842,205,72,10,18,1,1,1440,315,120,20,20,1,1,Click,Caster,Mech-Accord,4-star,1,1
+1932,601,107,0,14,1,1,3483,929,166,0,16,1,1,Conviction,Guard,Dreadnought,4-star,0,0
+1083,254,196,0,10,2,1,1985,435,322,0,12,2,1,Courier,Vanguard,Pioneer,4-star,1,0
+1629,248,372,0,17,3,1,3105,365,690,0,21,3,1,Cuora,Defender,Protector,4-star,0,0
+1357,338,204,0,17,2,1,2320,571,325,0,21,2,1,Cutter,Guard,Swordmaster,4-star,0,0
+638,259,77,10,8,1,1,1050,403,125,10,10,1,1,Deepcolor,Supporter,Summoner,4-star,1,1
+1121,378,252,0,13,2,1,2024,602,382,0,15,2,1,Dobermann,Guard,Instructor,4-star,0,0
+1623,349,324,5,20,3,1,3007,583,548,15,24,3,1,Dur-nar,Defender,Arts Protector,4-star,0,0
+751,298,66,10,12,1,1,1205,480,101,20,14,1,1,Earthspirit,Supporter,Decel Binder,4-star,1,1
+1462,387,190,0,18,2,1,2500,690,315,0,22,3,1,Estelle,Guard,Centurion,4-star,0,0
+1014,468,214,10,17,0,3,1530,742,337,20,19,0,3,Ethan,Specialist,Ambusher,4-star,2,1
+1356,400,211,5,16,2,1,2260,660,323,10,18,2,1,Frostleaf,Guard,Lord,4-star,0,0
+1167,262,96,0,16,1,2,1580,450,152,0,18,1,2,Gavial,Medic,Medic,4-star,1,1
+934,468,72,10,29,1,2,1598,715,118,20,32,1,2,Gitano,Caster,Splash,4-star,2,1
+885,256,216,0,6,1,0,1420,452,335,0,8,1,0,Gravel,Specialist,Executor,4-star,1,0
+899,457,79,10,29,1,2,1537,699,130,20,32,1,2,Greyy,Caster,Splash,4-star,2,1
+1432,257,345,10,16,2,1,2250,435,562,10,20,3,1,Gummy (Гум),Defender,Guardian,4-star,0,0
+885,362,71,10,17,1,1,1420,583,110,20,19,1,1,Haze,Caster,Core,4-star,1,1
+894,695,75,20,21,1,3,1435,1116,117,20,23,1,3,Indigo,Caster,Mystic,4-star,2,1
+1520,321,188,0,7,1,0,2278,529,308,0,9,1,0,Jackie,Guard,Fighter,4-star,1,0
+1461,441,250,0,5,1,1,2284,674,378,0,7,1,1,Jaye,Specialist,Merchant,4-star,0,0
+864,272,91,0,10,1,1,1320,475,154,0,12,1,1,Jessica,Sniper,Marksman,4-star,1,1
+2019,592,100,0,15,1,1,3640,916,156,0,17,1,1,Matoimaru,Guard,Dreadnought,4-star,0,0
+1698,254,361,5,17,3,1,3235,375,670,5,21,3,1,Matterhorn,Defender,Protector,4-star,0,0
+1043,273,61,0,10,1,1,1632,478,105,0,12,1,1,May,Sniper,Marksman,4-star,1,1
+875,266,97,0,10,1,1,1370,465,165,0,12,1,1,Meteor,Sniper,Marksman,4-star,1,1
+1407,396,230,10,18,1,1,2345,644,357,15,20,1,1,Mousse,Guard,Arts Fighter,4-star,0,1
+1060,264,83,0,16,1,2,1420,465,131,0,18,1,2,Myrrh,Medic,Medic,4-star,1,1
+902,331,193,0,8,1,1,1565,520,300,0,10,1,1,Myrtle,Vanguard,Standard Bearer,4-star,1,0
+960,189,92,0,14,1,2,1560,320,145,0,16,1,2,Perfumer,Medic,Multi-target,4-star,1,1
+1303,434,118,0,27,1,2,2200,667,167,0,30,1,2,Pinecone,Sniper,Spreadshooter,4-star,2,1
+724,306,62,10,12,1,1,1163,492,96,20,14,1,1,Podenco,Supporter,Decel Binder,4-star,1,1
+775,345,66,20,28,1,2,1326,542,108,20,31,1,2,Pudding,Caster,Chain,4-star,2,1
+985,261,75,10,17,1,2,1365,454,118,10,19,1,2,Purestream,Medic,Therapist,4-star,1,1
+1539,333,270,0,13,2,1,2470,535,415,0,17,2,1,Roberta,Supporter,Artificer,4-star,0,0
+1006,448,209,0,10,2,1,1720,728,325,0,12,2,1,Rope,Specialist,Hookmaster,4-star,0,0
+937,281,198,0,10,2,1,1835,470,310,0,12,2,1,Scavenger,Vanguard,Pioneer,4-star,1,0
+1099,351,229,0,17,2,1,1785,580,365,0,19,2,1,Shaw,Specialist,Push Stroker,4-star,0,0
+1043,496,66,0,23,1,2,1630,797,100,0,27,1,2,Shirayuki,Sniper,Artilleryman,4-star,2,1
+994,284,77,0,16,1,2,1345,488,122,0,18,1,2,Sussurro,Medic,Medic,4-star,1,1
+1963,442,206,0,20,1,1,3444,693,312,0,24,1,1,Utage,Guard,Musha,4-star,0,0
+786,277,95,0,10,1,1,1230,485,162,0,12,1,1,Vermeil,Sniper,Marksman,4-star,1,1
+1006,355,218,0,9,1,1,1845,558,351,0,11,1,1,Vigna,Vanguard,Charger,4-star,1,0
+885,403,80,10,20,1,1,1420,633,124,20,22,1,1,Absinthe,Caster,Core,5-star,1,1
+2071,465,216,0,21,1,1,3635,728,328,0,25,1,1,Akafuyu,Guard,Musha,5-star,0,0
+958,390,81,10,18,1,1,1480,612,121,20,20,1,1,Amiya,Caster,Core,5-star,1,1
+958,666,83,0,19,1,2,1498,1070,128,0,21,1,2,Andreana,Sniper,Deadeye,5-star,2,1
+1407,449,135,0,28,1,2,2376,691,192,0,31,1,2,Aosta,Sniper,Spreadshooter,5-star,2,1
+818,298,94,0,11,1,1,1280,528,160,0,13,1,1,April,Sniper,Marksman,5-star,1,1
+1692,379,328,5,21,3,1,3135,633,555,15,25,3,1,Asbestos,Defender,Arts Protector,5-star,0,0
+1725,573,291,0,23,2,2,3207,865,541,0,27,3,2,Ashlock,Defender,Fortress,5-star,0,0
+1514,411,254,10,19,1,1,2523,660,393,15,21,1,1,Astesia,Guard,Arts Fighter,5-star,0,0
+2356,582,378,0,28,1,1,4027,901,640,0,32,1,1,Aurora,Defender,Duelist,5-star,0,0
+1452,417,245,5,17,2,1,2420,670,375,10,18,2,1,Ayerscarpe,Guard,Lord,5-star,0,0
+1315,505,153,15,21,1,2,2005,735,205,15,23,1,2,Beeswax,Caster,Phalanx,5-star,2,1
+1519,424,200,0,15,2,1,2435,682,315,0,17,2,1,Bena,Specialist,Dollkeeper,5-star,0,0
+1492,356,209,0,18,2,1,2550,602,332,0,22,2,1,Bibeak,Guard,Swordmaster,5-star,0,0
+1941,254,367,0,20,3,1,3456,375,701,0,24,3,1,Bison,Defender,Protector,5-star,0,0
+1038,275,78,0,12,1,1,1625,442,133,0,14,1,1,Blacknight,Vanguard,Tactician,5-star,1,1
+1728,295,364,0,18,3,1,3213,445,676,0,22,3,1,Blitz,Defender,Protector,5-star,0,0
+767,297,76,5,11,1,1,1230,535,130,5,13,1,1,Blue Poison,Sniper,Marksman,5-star,1,1
+1008,202,97,0,15,1,2,1595,343,153,0,17,1,2,Breeze,Medic,Multi-target,5-star,1,1
+1365,428,222,0,19,2,1,2335,762,366,0,23,3,1,Broca,Guard,Centurion,5-star,0,0
+1050,269,80,10,20,1,2,1455,468,126,10,22,1,2,Ceylon,Medic,Therapist,5-star,1,1
+931,312,207,0,11,2,1,1824,522,342,0,13,2,1,Chiave,Vanguard,Pioneer,5-star,1,0
+1152,471,219,0,11,2,1,1970,765,340,0,13,2,1,Cliffheart,Specialist,Hookmaster,5-star,0,0
+980,484,77,10,30,1,2,1572,760,120,20,33,1,2,Corroserum,Caster,Blast,5-star,2,1
+1978,258,373,0,18,3,1,3520,380,710,0,22,3,1,Croissant,Defender,Protector,5-star,0,0
+962,339,215,0,9,1,1,1669,533,335,0,11,1,1,Elysium,Vanguard,Standard Bearer,5-star,1,0
+1147,396,240,0,20,2,1,1937,653,381,0,22,2,1,Enforcer,Specialist,Push Stroker,5-star,0,0
+1380,468,131,0,28,1,2,2330,720,185,0,31,1,2,Executor,Sniper,Spreadshooter,5-star,2,1
+1136,388,240,0,18,2,1,1845,640,382,0,20,2,1,FEater,Specialist,Push Stroker,5-star,0,0
+928,675,85,0,19,1,2,1450,1085,131,0,21,1,2,Firewatch,Sniper,Deadeye,5-star,2,1
+2138,601,123,0,18,1,1,3907,918,195,0,20,1,1,Flamebringer,Guard,Dreadnought,5-star,0,0
+1595,330,207,0,8,1,0,2495,545,334,0,10,1,0,Flint,Guard,Fighter,5-star,0,0
+1183,268,84,0,19,1,2,1585,479,133,0,21,1,2,Folinic,Medic,Medic,5-star,1,1
+2062,613,150,0,16,1,1,3768,936,235,0,18,1,1,Franka,Guard,Dreadnought,5-star,0,0
+847,329,98,0,11,1,0,1359,529,157,0,13,1,0,Frost,Specialist,Trapmaster,5-star,1,0
+800,314,65,10,13,1,1,1267,505,100,20,15,1,1,Glaucus,Supporter,Decel Binder,5-star,1,1
+1219,347,231,0,12,1,1,2235,552,367,0,14,1,1,Grani,Vanguard,Charger,5-star,1,0
+954,289,89,0,11,1,1,1493,513,152,0,13,1,1,GreyThroat,Sniper,Marksman,5-star,1,1
+1899,256,378,0,20,3,1,3380,378,721,0,24,3,1,Heavyrain,Defender,Protector,5-star,0,0
+689,198,160,0,7,1,1,1260,320,268,0,9,1,1,Heidi,Supporter,Bard,5-star,1,1
+1052,216,68,10,13,1,2,1458,375,107,10,15,1,2,Honeyberry,Medic,Wandering,5-star,1,1
+1584,261,359,10,17,2,1,2823,442,585,10,21,3,1,Hung,Defender,Guardian,5-star,0,0
+1640,321,217,0,8,1,0,2565,530,350,0,10,1,0,Indra,Guard,Fighter,5-star,0,0
+957,784,81,10,22,1,3,1535,1259,125,20,24,1,3,Iris,Caster,Mystic,5-star,2,1
+797,321,67,10,13,1,1,1280,518,104,20,15,1,1,Istina (Истина),Supporter,Decel Binder,5-star,1,1
+1044,298,200,0,7,1,0,1675,525,311,0,9,1,0,Kafka,Specialist,Executor,5-star,1,0
+1479,430,202,0,13,2,1,2372,692,318,0,15,2,1,Kazemaru,Specialist,Dollkeeper,5-star,0,0
+1180,503,217,10,18,0,3,1780,798,340,30,20,0,3,Kirara,Specialist,Ambusher,5-star,2,1
+863,191,73,10,21,1,1,1475,294,121,20,23,1,1,Kjera,Caster,Mech-Accord,5-star,1,1
+971,283,103,0,13,1,1,1520,502,176,0,15,1,1,Kroos the Keen Glint,Sniper,Marksman,5-star,1,1
+1474,425,299,0,19,1,1,2250,650,452,0,22,2,1,La Pluma,Guard,Reaper,5-star,0,0
+1410,426,238,10,17,2,1,2350,685,365,15,19,2,1,Lappland,Guard,Lord,5-star,0,0
+962,522,70,10,32,1,2,1543,798,115,20,35,1,2,Lava the Purgatory,Caster,Splash,5-star,2,1
+843,411,72,10,29,1,2,1443,635,119,20,32,1,2,Leizi,Caster,Chain,5-star,2,1
+1020,506,72,10,30,1,2,1637,773,120,20,33,1,2,Leonhardt,Caster,Splash,5-star,2,1
+1743,281,383,0,18,3,1,3240,425,710,0,22,3,1,Liskarm,Defender,Protector,5-star,0,0
+1080,511,218,10,18,0,3,1630,811,343,30,20,0,3,Manticore,Specialist,Ambusher,5-star,2,1
+649,285,80,15,9,1,1,1068,443,130,20,11,1,1,Mayer,Supporter,Summoner,5-star,1,1
+963,539,77,0,24,1,2,1505,865,116,0,28,1,2,Meteorite,Sniper,Artilleryman,5-star,2,1
+1275,503,146,15,23,1,2,1945,732,196,15,25,1,2,Mint,Caster,Phalanx,5-star,2,1
+1534,474,262,0,6,1,1,2398,725,396,0,8,1,1,Mr. Nothing,Specialist,Merchant,5-star,0,0
+987,223,63,10,13,1,2,1367,388,99,10,15,1,2,Mulberry,Medic,Wandering,5-star,1,1
+1560,273,353,10,17,2,1,2780,462,575,10,21,3,1,Nearl,Defender,Guardian,5-star,0,0
+941,396,77,10,18,1,1,1510,622,120,20,20,1,1,Nightmare,Caster,Core,5-star,1,1
+972,286,119,15,9,1,1,1685,443,179,25,11,1,1,Nine-Colored Deer,Supporter,Abjurer,5-star,1,1
+991,279,97,0,11,1,1,1550,495,165,0,13,1,1,Platinum,Sniper,Marksman,5-star,1,1
+925,277,67,15,10,1,1,1605,430,102,25,12,1,1,Pramanix,Supporter,Hexer,5-star,1,1
+938,301,194,0,7,1,0,1505,530,302,0,9,1,0,Projekt Red,Specialist,Executor,5-star,1,0
+995,456,117,0,15,1,1,1680,781,215,0,19,1,1,Provence,Sniper,Heavyshooter,5-star,1,1
+1016,198,95,0,15,1,2,1610,335,150,0,17,1,2,Ptilopsis,Medic,Multi-target,5-star,1,1
+969,299,115,15,10,1,1,1680,463,172,25,12,1,1,Quercus,Supporter,Abjurer,5-star,1,1
+1209,354,229,0,10,1,1,2215,562,364,0,12,1,1,Reed,Vanguard,Charger,5-star,1,0
+899,319,104,0,11,1,0,1442,513,166,0,13,1,0,Robin,Specialist,Trapmaster,5-star,1,0
+858,209,75,10,19,1,1,1468,320,123,20,21,1,1,Rockrock,Caster,Mech-Accord,5-star,1,1
+1421,395,193,0,18,2,1,2430,705,320,0,22,3,1,Savage,Guard,Centurion,5-star,0,0
+671,278,96,15,9,1,1,1105,432,155,20,11,1,1,Scene,Supporter,Summoner,5-star,1,1
+1059,519,82,0,24,1,2,1655,833,123,0,28,1,2,Sesa,Sniper,Artilleryman,5-star,2,1
+1691,403,325,5,21,3,1,3090,649,550,15,25,3,1,Shalem,Defender,Arts Protector,5-star,0,0
+996,263,70,15,10,1,1,1728,408,105,25,12,1,1,Shamare,Supporter,Hexer,5-star,1,1
+1707,386,238,10,21,1,1,2845,620,369,15,23,1,1,Sideroca,Guard,Arts Fighter,5-star,0,0
+1191,273,90,0,17,1,2,1595,482,142,0,19,1,2,Silence,Medic,Medic,5-star,1,1
+1010,513,74,10,30,1,2,1620,784,122,10,33,1,2,Skyfire,Caster,Splash,5-star,2,1
+1073,458,228,0,13,2,1,1835,745,355,0,15,2,1,Snowsant,Specialist,Hookmaster,5-star,0,0
+742,208,142,0,5,1,1,1356,335,238,0,7,1,1,Sora,Supporter,Bard,5-star,1,1
+1538,407,215,0,19,2,1,2630,725,355,0,23,3,1,Specter,Guard,Centurion,5-star,0,0
+1061,413,273,0,14,2,1,1914,656,413,0,16,2,1,Swire,Guard,Instructor,5-star,0,0
+1536,368,194,0,20,2,1,2626,621,309,0,24,2,1,Tachanka,Guard,Swordmaster,5-star,0,0
+2463,197,331,15,11,2,1,3757,302,501,15,13,3,1,Tequila,Guard,Liberator,5-star,0,0
+996,299,208,0,11,2,1,1950,500,343,0,13,2,1,Texas,Vanguard,Pioneer,5-star,1,0
+1066,594,80,0,21,1,2,1667,954,123,0,23,1,2,Toddifons,Sniper,Besieger,5-star,2,1
+1197,383,76,10,20,1,1,1920,600,119,20,22,1,1,Tomimi,Caster,Core,5-star,1,1
+934,248,117,15,10,1,1,1620,385,175,25,12,1,1,Tsukinogi,Supporter,Abjurer,5-star,1,1
+1157,275,86,0,19,1,2,1550,493,135,0,21,1,2,Tuye,Medic,Medic,5-star,1,1
+2072,479,337,10,31,2,1,3688,820,585,10,35,3,1,Vulcan,Defender,Juggernaut,5-star,0,0
+907,305,196,0,7,1,0,1455,536,304,0,9,1,0,Waai Fu,Specialist,Executor,5-star,1,0
+1135,282,80,0,17,1,2,1520,505,125,0,19,1,2,Warfarin,Medic,Medic,5-star,1,1
+1071,405,278,0,16,2,1,1932,645,420,0,18,2,1,Whislash,Guard,Instructor,5-star,0,0
+1034,282,76,10,18,1,2,1432,492,119,10,20,1,2,Whisperain,Medic,Therapist,5-star,1,1
+1214,351,234,0,12,1,1,2225,558,372,0,14,1,1,Wild Mane,Vanguard,Charger,5-star,1,0
+1620,351,277,0,14,2,1,2600,535,425,0,18,2,1,Windflit,Supporter,Artificer,5-star,0,0
+1128,274,211,0,11,2,1,2150,470,350,0,13,2,1,Zima (Зима),Vanguard,Pioneer,5-star,0,0
+1236,413,90,10,11,1,1,2034,703,152,10,13,1,1,Aak,Specialist,Geek,6-star,1,1
+863,336,77,15,14,1,1,1385,542,120,25,16,1,1,Angelina,Supporter,Decel Binder,6-star,1,1
+1036,298,102,0,12,1,1,1705,528,172,0,14,1,1,Archetto,Sniper,Marksman,6-star,1,1
+1026,302,100,0,12,1,1,1689,534,169,0,14,1,1,Ash,Sniper,Marksman,6-star,1,1
+1355,369,241,0,11,1,1,2484,586,382,0,13,1,1,Bagpipe,Vanguard,Charger,6-star,0,0
+1649,429,224,0,20,2,1,2821,765,370,0,24,3,1,Blaze,Guard,Centurion,6-star,0,0
+1820,297,357,10,18,2,1,3242,491,581,10,22,3,1,Blemishine,Defender,Guardian,6-star,0,0
+1380,581,170,15,22,1,2,2106,846,228,15,24,1,2,Carnelian,Caster,Phalanx,6-star,2,1
+939,420,82,10,19,1,1,1565,667,128,20,21,1,1,Ceobe,Caster,Core,6-star,1,1
+1684,361,221,0,19,2,1,2880,610,352,0,23,2,1,Ch'en,Guard,Swordmaster,6-star,0,0
+1481,502,143,0,29,1,2,2501,773,203,0,32,1,2,Ch'en the Holungday,Sniper,Spreadshooter,6-star,2,1
+1123,601,77,10,31,1,2,1801,918,127,20,34,1,2,Dusk,Caster,Splash,6-star,2,1
+2614,651,364,0,29,1,1,4468,1007,615,0,33,1,1,Eunectes,Defender,Duelist,6-star,0,0
+1016,305,95,0,12,1,1,1673,540,161,0,14,1,1,Exusiai,Sniper,Marksman,6-star,1,1
+1046,406,79,10,19,1,1,1743,645,122,20,21,1,1,Eyjafjalla,Caster,Core,6-star,1,1
+973,744,106,0,20,1,2,1522,1196,163,0,22,1,2,Fartooth,Sniper,Deadeye,6-star,2,1
+1232,536,104,0,25,1,2,1926,861,156,0,29,1,2,Fiammetta,Sniper,Artilleryman,6-star,2,1
+1138,314,231,0,12,2,1,2138,526,392,0,14,2,1,Flametail,Vanguard,Pioneer,6-star,0,0
+1350,492,213,0,14,2,1,2309,801,331,0,16,2,1,Gladiia,Specialist,Hookmaster,6-star,0,0
+1174,294,88,15,11,1,1,2035,455,132,25,13,1,1,Gnosis,Supporter,Hexer,6-star,1,1
+865,216,76,10,20,1,1,1480,331,125,20,22,1,1,Goldenglow,Caster,Mech-Accord,6-star,1,1
+2179,486,220,0,22,1,1,3825,762,334,0,26,1,1,Hellagur,Guard,Musha,6-star,0,0
+1650,620,334,0,24,2,2,3067,936,620,0,28,3,2,Horn,Defender,Fortress,6-star,0,0
+2165,284,384,0,19,3,1,3850,430,723,0,23,3,1,Hoshiguma,Defender,Protector,6-star,0,0
+982,563,79,10,31,1,2,1680,870,130,20,34,1,2,Ifrit,Caster,Blast,6-star,2,1
+1694,367,214,0,19,2,1,2935,621,349,0,23,2,1,Irene,Guard,Swordmaster,6-star,0,0
+1219,274,137,0,18,1,2,1633,490,215,0,20,1,2,Kal'tsit,Medic,Medic,6-star,1,1
+1552,516,308,0,7,1,1,2421,789,465,0,9,1,1,Lee,Specialist,Merchant,6-star,0,0
+656,304,85,15,10,1,1,1079,473,138,20,12,1,1,Ling,Supporter,Summoner,6-star,1,1
+1317,311,70,10,21,1,2,1825,540,111,10,23,1,2,Lumen,Medic,Therapist,6-star,2,1
+670,302,87,15,10,1,1,1103,469,140,20,12,1,1,Magallan,Supporter,Summoner,6-star,1,1
+1028,532,229,10,19,0,3,1758,865,356,30,21,0,3,Mizuki,Specialist,Ambusher,6-star,2,1
+1142,546,80,10,31,1,2,1831,834,132,20,34,1,2,Mostima,Caster,Splash,6-star,2,1
+1755,356,221,0,9,1,0,2745,587,357,0,11,1,0,Mountain,Guard,Fighter,6-star,0,0
+2207,515,347,10,32,2,1,3928,882,602,10,36,3,1,Mudrock,Defender,Juggernaut,6-star,0,0
+1996,697,187,0,17,1,1,3550,1064,295,0,19,1,1,Nearl the Radiant Knight,Guard,Dreadnought,6-star,0,0
+2080,405,380,0,19,3,1,3699,619,726,0,23,3,1,Nian,Defender,Protector,6-star,0,0
+1076,210,107,5,16,1,2,1705,350,169,5,18,1,2,Nightingale,Medic,Multi-target,6-star,1,1
+1088,432,301,0,15,2,1,1963,687,455,0,17,2,1,Pallas,Guard,Instructor,6-star,0,0
+935,433,84,10,30,1,2,1558,689,130,20,33,1,2,Passenger,Caster,Chain,6-star,2,1
+1026,317,207,0,8,1,0,1645,558,322,0,10,1,0,Phantom,Specialist,Executor,6-star,1,0
+1067,684,80,0,22,1,2,1755,1032,122,0,24,1,2,Rosa (Роса),Sniper,Besieger,6-star,2,1
+1166,461,160,10,23,1,2,1944,688,245,15,25,1,2,Rosmontis,Sniper,Flinger,6-star,2,1
+1174,316,219,0,12,2,1,2205,530,372,0,14,2,1,Saga,Vanguard,Pioneer,6-star,0,0
+1057,348,236,0,10,1,1,1835,546,367,0,12,1,1,Saileach,Vanguard,Standard Bearer,6-star,1,0
+1769,287,365,10,18,2,1,3150,485,595,10,22,3,1,Saria,Defender,Guardian,6-star,0,0
+1086,490,123,0,16,1,1,1833,840,225,0,20,1,1,Schwarz,Sniper,Heavyshooter,6-star,1,1
+1204,296,88,0,18,1,2,1613,530,138,0,20,1,2,Shining,Medic,Medic,6-star,1,1
+1199,308,227,0,12,2,1,2251,515,384,0,14,2,1,Siege,Vanguard,Pioneer,6-star,0,0
+1536,444,259,5,18,2,1,2560,713,397,10,20,2,1,SilverAsh,Guard,Lord,6-star,0,0
+2174,665,167,0,17,1,1,3866,1015,263,0,19,1,1,Skadi,Guard,Dreadnought,6-star,0,0
+877,228,139,0,6,1,1,1603,368,233,0,8,1,1,Skadi the Corrupting Heart,Supporter,Bard,6-star,1,1
+1749,459,205,0,14,2,1,2803,737,322,0,16,2,1,Specter the Unchained,Specialist,Dollkeeper,6-star,0,0
+1750,418,267,10,19,1,1,2916,672,414,15,21,1,1,Surtr,Guard,Arts Fighter,6-star,0,0
+922,324,83,15,14,1,1,1480,521,128,25,16,1,1,Suzuran,Supporter,Decel Binder,6-star,1,1
+1567,442,263,5,18,2,1,2612,711,402,10,20,2,1,Thorns,Guard,Lord,6-star,0,0
+1027,568,89,0,25,1,2,1605,912,133,0,29,1,2,W,Sniper,Artilleryman,6-star,2,1
+1313,411,248,0,19,2,1,2133,677,394,0,21,2,1,Weedy,Specialist,Push Stroker,6-star,0,0
